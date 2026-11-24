@@ -1,0 +1,199 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other vars.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pytest cache
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+
+# Thonny IDE
+.spotlocalization-location-*
+
+# IDE - VSCode
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# IDE - PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# IDE - Eclipse
+*.metadata/
+*.local/.project
+*.local/.meta/
+
+# IDE - NetBeans
+*.nbproject/
+*.name
+
+# IDE - Xcode
+*.ooc/
+*.pch/
+*.xcache/
+
+# IDE - Atom
+*.cymeta
+*.env
+.atom/
+
+# IDE - Sublime Text
+*.tmp
+*.sublime-workspace
+
+# IDE - Geany
+*.conf.py
+*.conf
+
+# IDE - Code::Blocks
+*.sdk
+
+# IDE - Qt Creator
+*.qmlproject
+
+# IDE - CLion
+*.swp
+*.swo
+
+# IDE - Android Studio
+.gradle/
+*.iml
+*.iws
+
+# IDE - JDeveloper
+*.jpx
+
+# IDE - Spring Tool Suite
+*.sar
+*.sap
+
+# IDE - Visual Studio
+*.vspscc
+
+# IDE - Tizen
+*.tpj
+*.tpr
+
+# IDE - WebStorm
+*.sublime-project
+*.sublime-workspace
+
+# IDE - PhpStorm
+*.phpstorm.meta.php
+
+# IDE - PyCharm
+*.idea/
+
+# IDE - VSCode
+.vscode/
+
+# IDE - JetBrains
+.idea/
+
+# IDE - PyCharm
+*.idea/
+
+# IDE - PyCharm
+*.iml
+
+# IDE - PyCharm
+*.ipr
+
+# IDE - PyCharm
+*.iws
+
+# IDE - PyCharm
+*.swp
+
+# IDE - PyCharm
+*.swo
+
+# IDE - PyCharm
+*.tmp
+
+# IDE - PyCharm
+*.cymeta
+
+# IDE - Atom
+*.atom
+
+# IDE - Sublime Text
+*.tmp
+
+# IDE - VSCode
+.vscode/
+
+# IDE - PyCharm
+.idea/
+
+# IDE - PyCharm
+*.iml
+
+# IDE - PyCharm
+*.ipr
+
+# IDE - PyCharm
+*.iws
+
+# IDE - PyCharm
+*.swp
+
+# IDE - PyCharm
+*.swo
+
+# IDE - PyCharm
+*.tmp
+
+# IDE - PyCharm
+*.cymeta
+
+# IDE - Atom
+*.atom
+
+# IDE - Sublime Text
+*.tmp
+
+# IDE - VSCode
+.vscode/
