@@ -1,0 +1,7 @@
+flask==3.0.3
+opencv-python==4.9.0.80
+numpy==1.26.4
+picamera2==0.3.2
+gpiozero==1.8.0
+RPLCD==0.6.0
+picamera2[all]==0.3.2
